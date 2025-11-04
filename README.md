@@ -66,7 +66,7 @@ Convertirme en **Arquitecto de Soluciones en la Nube**, liderando proyectos que 
 ## 🧰 Contacto
 
 📩 **[marcelo11avila@gmail.com](mailto:marcelo11avila@gmail.com)**  
-💼 [LinkedIn](https://www.linkedin.com/in/marceloavila-dev](https://www.linkedin.com/in/marceloavila11)  
+💼 [LinkedIn](https://www.linkedin.com/in/marceloavila11)  
 🌐 [Portafolio Personal](https://marceloavila.dev)
 
 ---
