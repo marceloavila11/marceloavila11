@@ -46,10 +46,10 @@ Convertirme en **Arquitecto de Soluciones en la Nube**, liderando proyectos que 
 
 ## 🧩 Repositorios Destacados
 
-- 🧠 [FinScope AI – Inteligencia Financiera](https://github.com/marceloavila-dev/finscope-ai)  
-- 🔍 [QA Insight – Calidad Predictiva](https://github.com/marceloavila-dev/qa-insight)  
-- 💳 [CreditIQ – Riesgo con Explainability](https://github.com/marceloavila-dev/creditiq)  
-- ☁️ [CloudOps Vision – Observabilidad y DevOps](https://github.com/marceloavila-dev/cloudops-vision)
+- 🧠 [FinScope AI – Inteligencia Financiera](https://github.com/marceloavila11/finscope-ai)  
+- 🔍 [QA Insight – Calidad Predictiva](https://github.com/marceloavila11/qa-insight)  
+- 💳 [CreditIQ – Riesgo con Explainability](https://github.com/marceloavila11/creditiq)  
+- ☁️ [CloudOps Vision – Observabilidad y DevOps](https://github.com/marceloavila1/cloudops-vision)
 
 ---
 
