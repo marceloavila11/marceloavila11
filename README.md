@@ -13,9 +13,6 @@ Construyo plataformas que **piensan, aprenden y escalan**.
 | **[QualiLife AI](#qualilife-ai)**       | Plataforma de inteligencia global para analizar bienestar, desarrollo humano e indicadores multidimensionales asistidos por IA. Incluye mapa interactivo, análisis comparativo, resúmenes generados por IA y visualización de indicadores clave. | FastAPI · Astro · IA Generativa · MongoDB · AWS · TypeScript · TailwindCSS · Python · Docker |
 | **[FinScope AI](#finscope-ai)**         | Plataforma inteligente de análisis y predicción financiera. Combina IA, analítica y arquitectura escalable en AWS.                                                                                                                               | FastAPI · React · TypeScript · MongoDB · Gemini API · TailwindCSS · AWS                      |
 | **[CloudOps Vision](#cloudops-vision)** | Plataforma de observabilidad y despliegue inteligente basada en DevOps.                                                                                                                                                                          | Docker · Kubernetes · Prometheus · Grafana · Python · React · AWS ECS                        |
-| **[CreditIQ](#creditiq)**               | Sistema de riesgo crediticio explicable. Implementa MLOps y explainability con pipelines automatizados.                                                                                                                                          | Python · FastAPI · Scikit-learn · SHAP · MLflow · React                                      |
-| **[QA Insight](#qa-insight)**           | Sistema predictivo de calidad continua. Automatiza, predice y optimiza ciclos QA.                                                                                                                                                                | Python · FastAPI · React · Azure DevOps API · Pandas · Plotly                                |
-| **[DataScope](#datascope)**             | Dashboard analítico para carga y visualización de datos con estadísticas rápidas.                                                                                                                                                                | FastAPI · React · Pandas · Plotly · TypeScript                                               |
 | **[TaskPilot](#taskpilot)**             | Gestor de tareas full stack con autenticación y despliegue en Docker.                                                                                                                                                                            | Flask · Vue 3 · JavaScript · SQLite · TailwindCSS · Docker                                   |
 
 ---
@@ -52,9 +49,6 @@ Convertirme en **Arquitecto de Soluciones en la Nube**, liderando proyectos que 
 * 🌍 [QualiLife AI – Inteligencia Global](https://github.com/marceloavila11/QualiLife-AI)
 * 🧠 [FinScope AI – Inteligencia Financiera](https://github.com/marceloavila11/FinScope-AI)
 * ☁️ [CloudOps Vision – Observabilidad y DevOps](https://github.com/marceloavila11/CloudOps-Vision)
-* 💳 [CreditIQ – Riesgo con Explainability](https://github.com/marceloavila11/CreditIQ)
-* 🔍 [QA Insight – Calidad Predictiva](https://github.com/marceloavila11/QA-Insight)
-* 📊 [DataScope – Dashboard Analítico](https://github.com/marceloavila11/DataScope)
 * ✔️ [TaskPilot – Gestión de Tareas](https://github.com/marceloavila11/TaskPilot)
 
 ---
